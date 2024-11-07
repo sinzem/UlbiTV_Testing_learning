@@ -2,7 +2,7 @@
 // import userEvent from "@testing-library/user-event";
 // import App from './App';
 
-// describe("TEST APP", () => {
+describe("TEST APP", () => {
 //   test('renders learn react link', () => {
 //     render(<App />); 
 //     // const linkElement = screen.getByText(/learn react/i);
@@ -59,7 +59,7 @@
 //     userEvent.type(input, "123124"); /* (еще один симулятор событий, конкретнее - действий пользователя, передаем элемент и данные) */
 //     expect(screen.queryByTestId("value-elem")).toContainHTML("123124"); /* (проверяем, соответствует ли значение из инпута в блоке) */
 //   })
-// })
+})
  
 // /* (npm run test) */
 // /* (тест запущен в следящем режиме, отрабатывает даже без запуска самого приложения) */

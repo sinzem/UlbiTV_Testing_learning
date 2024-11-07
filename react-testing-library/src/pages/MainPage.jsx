@@ -5,7 +5,7 @@ const MainPage = () => {
     return (
         <div data-testid="main-page">
             MAIN PAGE
-            <Counter />
+            <Counter /> 
         </div>
     );
 };
